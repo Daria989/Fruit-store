@@ -1,0 +1,23 @@
+.footer {
+    height: 100px;
+    background-color: #FDB827;
+    box-shadow: 0 0 10px #998a8a;
+}
+
+.footer__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.footer__socialNetwork img {
+    padding: 20px 10px;
+    width: 40px;
+    height: 40px;
+}
+
+.footer__socialNetwork img:hover {
+    opacity: 50%;
+}

@@ -1,0 +1,16 @@
+.Card {
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 10px;
+    margin:10px
+}
+
+.Card:hover {
+    opacity: 70%;
+}
+
+.Card__items {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0 5px 0;
+}

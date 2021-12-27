@@ -1,0 +1,15 @@
+.Counter__button {
+    width: 100%;
+    border: none;
+    border-radius: 7px;
+    padding: 10px 25px;
+    background: #ff9900;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
+
+.Counter__button :hover {
+    opacity: 50%;
+}

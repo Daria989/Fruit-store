@@ -1,0 +1,25 @@
+.header {
+    width: 100%;
+    margin: 0 auto;
+    height: 80px;
+    box-shadow: 0 0 10px #998a8a;
+    background-color: #FDB827;
+}
+
+.header__container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+}
+
+.header__logo {
+    width: 200px;
+}
+
+.header__logo:hover {
+    width: 220px;
+
+}
